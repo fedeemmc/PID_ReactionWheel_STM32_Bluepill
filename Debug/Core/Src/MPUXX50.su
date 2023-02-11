@@ -1,0 +1,7 @@
+../Core/Src/MPUXX50.c:38:9:MPU_begin	40	static
+../Core/Src/MPUXX50.c:74:6:MPU_writeAccFullScaleRange	40	static
+../Core/Src/MPUXX50.c:113:6:MPU_writeGyroFullScaleRange	40	static
+../Core/Src/MPUXX50.c:151:6:MPU_readRawData	48	static
+../Core/Src/MPUXX50.c:172:6:MPU_calibrateGyro	40	static
+../Core/Src/MPUXX50.c:203:6:MPU_readProcessedData	16	static
+../Core/Src/MPUXX50.c:226:6:MPU_calcAttitude	32	static
